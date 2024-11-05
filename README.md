@@ -1,4 +1,4 @@
-# 471_Programming_Assignment
+# 471-Assignment
 Write a README file (text file, do not submit a .doc file) which contains
 
 – Names and email addresses of all partners.
